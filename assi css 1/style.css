@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    b
+}
+
+
+header{
+    width: 100%;
+    
+    
+    background-color:rgba(224, 209, 3, 0.753);
+    
+    height: 100px;
+}
+ 
+.link1{
+    
+    padding-left: 160px;
+    text-transform: uppercase;
+    border-radius: 15px;
+}
+
+    
+     h1{
+        padding-top:30px;
+        text-align: center;
+        width: 100%;
+        font-family: serif;
+        font-size: larger;
+        text-transform: uppercase;
+        
+     }
+h2{
+    
+text-align: center;
+background-color: #d8c621d3;
+font-family: cursive;
+height: 50px;
+
+}
+.bu2{
+margin-left: 100px;
+    background-color: aquamarine;
+    border-radius: 25px;
+    width: 100px;
+    height: 40px;
+    
+}
+
+#Biryani{
+    height: 50px;
+    padding-top: 20px;
+    text-align: center;
+    background-color: #ffde22;
+    font-family: cursive;
+    font-size: x-large;
+}
+#Karhai{background-color: rgb(201, 27, 27);}
+button:hover{
+    background-color: #51d0de;
+}
+a:hover{
+    background-color: bisque;
+}
+
+    
